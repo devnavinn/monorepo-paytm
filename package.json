@@ -11,6 +11,7 @@
     "@repo/eslint-config": "*",
     "@repo/typescript-config": "*",
     "@repo/db": "*",
+    "@repo/store": "*",
     "prettier": "^3.2.5",
     "turbo": "latest"
   },
